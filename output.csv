@@ -1,0 +1,1001 @@
+record_id,event_date,type,sub_type,metric_1,metric_2,label,subtype
+REC0280,2024/08/10,Retail,Standard,"3,324.46",13.65,Active,unknown
+REC0424,Jul 08 2024,Healthcare,Enterprise,"1,787.35",736.05,Active,unknown
+REC0931,2024/05/26,Retail,Offline,"2,566.15",504.06505966587105,Review,unknown
+REC0760,Sep 24 2024, Retail ,Online,"4,960.56",533.41,Review,unknown
+REC0389,28-02-2024,Healthcare,,"2,632.65",514.79,Review,unknown
+REC0803,21-03-2024,technology,Online,"3,520.42",218.04,Active,unknown
+REC0232,11-06-2024,Retail,Basic,"1,863.60",133.37,Review,unknown
+REC0004,2024/02/22,healthcare,Enterprise,"1,396.15",504.06505966587105,Active,unknown
+REC0888,25-02-2024, Technology ,Premium,"3,760.75",504.06505966587105,Inactive,unknown
+REC0405,09-10-2024,technology,Offline,"1,892.51",772.37,Pending,unknown
+REC0477,Feb 21 2024,HEALTHCARE,Enterprise,"3,318.69",947.56,Review,unknown
+REC0051,2024/09/01,Healthcare,Basic,"2,737.28",800.07,Review,unknown
+REC0706,2024/11/28,technology,Premium,"3,871.63",504.06505966587105,Active,unknown
+REC0085,17-03-2024,healthcare,Enterprise,"1,948.33",869.73,Inactive,unknown
+REC0422,Oct 22 2024,Retail,Offline,"3,470.06",362.91,Pending,unknown
+REC0208,2024/08/12,Retail,Premium,"1,247.39",576.53,Pending,unknown
+REC0956,2024/08/18,retail,,"3,753.97",696.75,Review,unknown
+REC0514,2024/03/24,Retail,Premium,"3,677.79",289.49,Inactive,unknown
+REC0740,Oct 19 2024,Healthcare,Online,"3,255.18",504.06505966587105,Active,unknown
+REC0269,2024/10/30, Technology ,,"3,508.43",988.17,Inactive,unknown
+REC0547,Aug 10 2024,healthcare,Enterprise,139.78,404.79,Pending,unknown
+REC0079,2024/10/08,healthcare,Online,"4,853.91",515.08,Review,unknown
+REC0049,20-06-2024,retail,Offline,"1,976.87",214.74,Pending,unknown
+REC0506,2024/07/30, Retail ,Online,967.68,439.85,Pending,unknown
+REC0425,27-04-2024,RETAIL,Enterprise,"2,062.75",551.03,Active,unknown
+REC0752,11-10-2024, Retail ,Premium,"4,431.26",635.53,Review,unknown
+REC0299,2024/08/24,HEALTHCARE,Basic,"2,531.02",427.24,Inactive,unknown
+REC0318,2024/04/15,technology,Standard,"2,746.61",298.1,unknown,unknown
+REC0729,17-08-2024,Retail,Offline,"4,046.40",566.03,Inactive,unknown
+REC0974,Sep 24 2024,retail,Online,"2,726.18",761.2,Pending,unknown
+REC0827,2024/07/28,retail,Enterprise,895.58,957.14,Pending,unknown
+REC0851,Sep 12 2024,Healthcare,Standard,"4,260.72",35.31,Active,unknown
+REC0574,Jul 25 2024,retail,Online,"1,983.68",780.05,Pending,unknown
+REC0663,2024/11/27,Healthcare,Premium,"3,969.38",551.16,Active,unknown
+REC0858,19-02-2024,RETAIL,Online,"4,903.36",593.8,Review,unknown
+REC0966,Mar 06 2024,RETAIL,Premium,"2,634.66",100.48,Active,unknown
+REC0867,Nov 06 2024,retail,Online,"1,261.79",300.41,Inactive,unknown
+REC0439,Sep 01 2024,healthcare,Standard,"3,901.93",121.25,Pending,unknown
+REC0653,2024/06/05,Retail,Online,"2,358.46",568.48,Pending,unknown
+REC0776,2024/07/11,Retail,Online,"1,853.64",143.26,Pending,unknown
+REC0828,Sep 17 2024,healthcare,Standard,"1,988.13",247.55,Pending,unknown
+REC0235,16-12-2024,Healthcare,Basic,815.08,276.69,Active,unknown
+REC0919,2024/09/08, Retail ,Premium,"1,850.81",119.23,Active,unknown
+REC0236,03-07-2024, Technology ,Offline,"2,343.52",504.06505966587105,unknown,unknown
+REC0842,Jul 23 2024,retail,Basic,"4,935.67",905.3,Pending,unknown
+REC0617,13-01-2024, Retail ,Online,"1,699.20",195.95,Pending,unknown
+REC0535,May 21 2024, Technology ,Premium,831.67,16.24,Active,unknown
+REC0467,31-01-2024,technology,Offline,"2,490.43",558.79,Pending,unknown
+REC0419,Sep 03 2024,technology,Standard,"3,281.24",371.01,unknown,unknown
+REC0634,Dec 03 2024, Technology ,Premium,312.08,11.26,unknown,unknown
+REC0322,2024/05/14,Retail,Standard,"3,370.60",504.06505966587105,Review,unknown
+REC0323,2024/10/28,HEALTHCARE,Basic,"4,831.58",936.43,Inactive,unknown
+REC0725,24-12-2024, Retail ,Enterprise,"3,962.87",697.77,Review,unknown
+REC0647,Sep 08 2024,healthcare,Enterprise,"2,778.44",32.57,Active,unknown
+REC0643,03-02-2024,healthcare,Basic,701.53,725.48,Pending,unknown
+REC0234,2024/07/16,HEALTHCARE,Standard,"4,515.57",978.19,Inactive,unknown
+REC0589,Aug 25 2024,Healthcare,Online,"4,003.40",968.61,Inactive,unknown
+REC0856,29-12-2024,RETAIL,Basic,"3,510.18",145.68,Inactive,unknown
+REC0132,Aug 18 2024,healthcare,Enterprise,839.22,504.06505966587105,unknown,unknown
+REC0584,2024/07/31,technology,Offline,"4,635.81",504.06505966587105,unknown,unknown
+REC0495,2024/12/01,Healthcare,Standard,"1,865.07",504.06505966587105,Review,unknown
+REC0169,2024/02/11,Healthcare,Enterprise,"2,141.28",498.54,Pending,unknown
+REC0582,2024/02/24, Retail ,Offline,"2,188.44",982.21,Pending,unknown
+REC0583,Mar 02 2024,RETAIL,Offline,"3,844.72",336.17,Inactive,unknown
+REC0354,2024/12/19,HEALTHCARE,Premium,"2,424.54",695.5,Pending,unknown
+REC0262,2024/09/07,Healthcare,Basic,"2,314.76",880.24,unknown,unknown
+REC0567,25-05-2024,Retail,Online,"4,698.68",835.62,Active,unknown
+REC0292,2024/12/05,Healthcare,Basic,"3,533.56",318.74,Active,unknown
+REC0080,2024/07/30,healthcare,Basic,"3,164.50",204.35,Pending,unknown
+REC0209,01-05-2024,technology,Premium,"1,448.25",592.08,Inactive,unknown
+REC0482,2024/06/10,Healthcare,Enterprise,"2,825.98",155.56,unknown,unknown
+REC0002,29-10-2024,retail,Enterprise,"3,049.89",716.3,Review,unknown
+REC0756,03-11-2024,Retail,Premium,"4,687.61",222.3,unknown,unknown
+REC0462,08-05-2024,retail,Standard,"1,319.92",443.52,Active,unknown
+REC0900,2024/02/14,retail,Standard,"4,105.30",446.32,unknown,unknown
+REC0372,2024/07/28, Retail ,Basic,"1,156.39",191.39,Review,unknown
+REC0959,31-03-2024,RETAIL,Offline,"2,759.54",845.25,Review,unknown
+REC0889,2024/02/26,RETAIL,Standard,"1,722.95",504.06505966587105,Review,unknown
+REC0669,2024/06/06,Retail,Standard,"4,014.81",504.06505966587105,Inactive,unknown
+REC0678,03-11-2024,healthcare,Enterprise,675.02,435.72,Review,unknown
+REC0220,2024/09/25,retail,Standard,337.72,504.06505966587105,Inactive,unknown
+REC0182,2024/04/07,HEALTHCARE,Standard,"1,099.07",611.87,Active,unknown
+REC0821,2024/03/05,technology,Offline,"1,257.92",504.06505966587105,Pending,unknown
+REC0120,Feb 16 2024,HEALTHCARE,Premium,871.31,325.06,Active,unknown
+REC0458,Nov 28 2024,Healthcare,Online,993.80,637.26,Pending,unknown
+REC0402,2024/06/09,HEALTHCARE,Premium,758.10,878.01,Pending,unknown
+REC0522,May 12 2024,healthcare,Enterprise,"2,856.91",632.23,Inactive,unknown
+REC0102,21-11-2024,Healthcare,Online,784.91,305.06,Active,unknown
+REC0775,2024/09/10, Retail ,Basic,"3,157.21",734.85,Pending,unknown
+REC0986,05-02-2024,HEALTHCARE,Premium,"1,654.23",80.69,Review,unknown
+REC0370,24-04-2024, Technology ,Premium,"3,607.98",504.06505966587105,Inactive,unknown
+REC0784,Nov 22 2024, Retail ,Offline,"2,315.19",219.38,Review,unknown
+REC0772,16-03-2024,healthcare,Online,"2,636.63",145.46,Active,unknown
+REC0373,Jan 24 2024,retail,Basic,"2,341.20",504.69,Active,unknown
+REC0454,Sep 03 2024,retail,Premium,"2,119.80",11.55,Inactive,unknown
+REC0244,2024/08/08,unkown,Enterprise,"3,759.58",687.98,Pending,unknown
+REC0434,04-02-2024, Retail ,Offline,"4,020.79",353.74,Pending,unknown
+REC0627,12-06-2024,RETAIL,Online,"1,436.08",912.19,Pending,unknown
+REC0493,2024/06/18, Retail ,Enterprise,"3,776.74",623.42,Active,unknown
+REC0300,20-05-2024,RETAIL,,"3,133.97",295.81,Review,unknown
+REC0287,08-06-2024, Technology ,,"1,083.29",304.61,Review,unknown
+REC0078,16-02-2024,healthcare,Online,"4,302.89",693.98,Review,unknown
+REC0062,2024/08/18,HEALTHCARE,Basic,"4,269.67",212.91,Pending,unknown
+REC0781,Jan 24 2024,technology,Offline,"1,705.63",504.06505966587105,Inactive,unknown
+REC0795,2024/07/14,retail,Offline,"2,426.41",961.98,Pending,unknown
+REC0222,2024/01/09,HEALTHCARE,,"2,694.15",977.5,unknown,unknown
+REC0408,2024/01/21, Retail ,Premium,"1,246.69",518.37,Review,unknown
+REC0072,Apr 16 2024,retail,Offline,"2,804.76",409.11,Review,unknown
+REC0046,Jan 26 2024,retail,Basic,"3,371.13",595.86,Review,unknown
+REC0215,May 04 2024, Retail ,Offline,"2,805.19",381.28,Pending,unknown
+REC0123,2024/01/04, Retail ,Premium,"1,518.29",504.06505966587105,Review,unknown
+REC0566,2024/10/07,retail,,578.72,504.06505966587105,Inactive,unknown
+REC0807,2024/03/23,retail,Online,"2,719.80",78.51,Pending,unknown
+REC0094,2024/06/03, Technology ,Basic,"2,902.42",992.7,Review,unknown
+REC0726,11-04-2024,technology,Standard,"3,622.51",520.95,Inactive,unknown
+REC0614,16-03-2024,RETAIL,Online,"4,610.13",499.92,Review,unknown
+REC0153,Jun 07 2024,technology,Online,"3,791.13",357.62,Pending,unknown
+REC0328,2024/10/15,technology,Basic,"1,394.27",572.45,Inactive,unknown
+REC0172,2024/06/12,Healthcare,Offline,574.38,384.77,Inactive,unknown
+REC0757,May 23 2024,healthcare,Enterprise,"3,163.66",221.93,Pending,unknown
+REC0423,May 13 2024,healthcare,Standard,"2,047.53",552.55,Inactive,unknown
+REC0755,2024/10/02,retail,Standard,"2,281.37",504.06505966587105,Review,unknown
+REC0242,25-10-2024,HEALTHCARE,Premium,"3,538.01",594.23,Active,unknown
+REC0765,2024/05/08, Retail ,Online,"4,126.01",237.51,unknown,unknown
+REC0694,2024/05/10,HEALTHCARE,Offline,898.41,285.65,Inactive,unknown
+REC0395,17-12-2024,Healthcare,Basic,"1,968.93",31.79,Inactive,unknown
+REC0951,2024/08/30,Retail,Standard,"2,172.31",176.93,Pending,unknown
+REC0668,2024/12/24,HEALTHCARE,Offline,"4,820.25",937.04,Pending,unknown
+REC0170,24-11-2024,HEALTHCARE,Online,"3,474.21",416.21,Pending,unknown
+REC0050,04-10-2024, Retail ,Basic,"4,533.71",695.83,Review,unknown
+REC0556,2024/11/09,technology,Basic,"2,324.77",574.39,Pending,unknown
+REC0753,2024/05/19,healthcare,Basic,"4,799.06",914.1,Active,unknown
+REC0736,Mar 13 2024,Healthcare,Offline,997.08,3.08,Active,unknown
+REC0585,Nov 19 2024,RETAIL,,"2,486.14",504.06505966587105,Active,unknown
+REC0463,11-04-2024,retail,Offline,"2,416.85",312.8,Active,unknown
+REC0171,2024/11/06,healthcare,Premium,"4,879.33",504.06505966587105,Active,unknown
+REC0791,2024/08/30,technology,Standard,"4,090.55",86.79,Review,unknown
+REC0355,Aug 03 2024,technology,Enterprise,"3,533.56",898.72,Active,unknown
+REC0990,May 18 2024,RETAIL,Online,718.81,753.28,Review,unknown
+REC0953,07-08-2024,Healthcare,Premium,"4,715.51",535.97,Review,unknown
+REC0489,10-03-2024, Technology ,Enterprise,"1,060.89",735.93,Active,unknown
+REC0591,2024/01/23,technology,Online,"2,476.80",504.06505966587105,Review,unknown
+REC0963,04-01-2024,technology,Standard,"1,396.05",795.34,Inactive,unknown
+REC0058,Jun 08 2024,HEALTHCARE,Standard,"1,071.82",830.74,Pending,unknown
+REC0192,Nov 24 2024,RETAIL,Basic,"1,436.90",331.35,Pending,unknown
+REC0989,Jul 07 2024,Retail,Online,642.94,75.97,Review,unknown
+REC0098,2024/07/31,technology,Premium,"2,701.18",830.64,Review,unknown
+REC0620,Apr 20 2024,HEALTHCARE,Premium,902.57,897.83,Review,unknown
+REC0263,Sep 20 2024,healthcare,Basic,"1,703.72",504.06505966587105,Active,unknown
+REC0375,2024/03/06,healthcare,Basic,"2,151.46",692.82,Review,unknown
+REC0097,Nov 17 2024, Technology ,,"1,887.82",504.06505966587105,Pending,unknown
+REC0797,2024/05/25,technology,Online,"1,906.40",504.06505966587105,Review,unknown
+REC0901,Oct 06 2024, Technology ,Offline,"2,714.43",128.7,Pending,unknown
+REC0217,Jan 24 2024,RETAIL,,"2,811.23",720.29,Inactive,unknown
+REC0265,25-05-2024,RETAIL,Basic,"3,962.69",762.49,unknown,unknown
+REC0698,Sep 10 2024,technology,Basic,"2,243.04",478.13,Inactive,unknown
+REC0605,2024/10/03, Retail ,Offline,"1,670.27",504.06,Active,unknown
+REC0982,16-07-2024,technology,Enterprise,"1,462.44",883.48,Active,unknown
+REC0177,2024/03/06,healthcare,Premium,"3,799.33",509.61,Active,unknown
+REC0198,Oct 02 2024, Retail ,Enterprise,"4,378.36",504.06505966587105,Pending,unknown
+REC0459,Dec 24 2024,healthcare,,343.20,186.75,unknown,unknown
+REC0950,2024/08/28,healthcare,Enterprise,"3,893.61",504.06505966587105,Review,unknown
+REC0717,26-01-2024,retail,Enterprise,"3,087.31",102.77,Active,unknown
+REC0602,2024/09/28,Healthcare,Enterprise,"2,757.93",787.9,unknown,unknown
+REC0917,Nov 17 2024,Retail,Premium,602.57,415.87,unknown,unknown
+REC0837,2024/02/19,Retail,Enterprise,"4,935.79",932.2,Pending,unknown
+REC0490,16-05-2024,retail,Basic,"2,175.35",321.42,Active,unknown
+REC0285,Oct 10 2024,HEALTHCARE,Offline,"2,139.66",271.99,unknown,unknown
+REC0160,2024/02/28, Technology ,Enterprise,677.03,704.33,Pending,unknown
+REC0076,Aug 09 2024,Healthcare,,"1,221.73",860.66,Active,unknown
+REC0346,2024/03/18,healthcare,Enterprise,"4,474.94",144.08,Inactive,unknown
+REC0187,2024/09/02,technology,Enterprise,"3,511.24",504.06505966587105,Inactive,unknown
+REC0922,Mar 17 2024,RETAIL,Standard,"4,004.57",814.84,unknown,unknown
+REC0479,2024/12/02, Technology ,Premium,"2,795.40",845.01,Review,unknown
+REC0086,19-10-2024,HEALTHCARE,Standard,"2,417.58",381.85,Inactive,unknown
+REC0406,09-03-2024,retail,Enterprise,151.90,964.04,Inactive,unknown
+REC0938,2024/07/01,retail,Standard,"2,567.53",775.29,unknown,unknown
+REC0435,07-05-2024,healthcare,Offline,"2,435.12",894.42,Inactive,unknown
+REC0271,Nov 24 2024,technology,Enterprise,"3,285.10",722.71,Inactive,unknown
+REC0486,Nov 30 2024,HEALTHCARE,Enterprise,301.79,150.43,Inactive,unknown
+REC0646,19-03-2024,retail,Standard,"3,782.89",792.94,Review,unknown
+REC0686,May 14 2024,Healthcare,Basic,"4,474.09",994.57,Inactive,unknown
+REC0519,Aug 21 2024,Retail,Premium,"1,681.83",820.44,Active,unknown
+REC0988,2024/01/15,Retail,Premium,"4,320.80",227.11,unknown,unknown
+REC0732,Jul 08 2024,technology,Basic,"4,372.87",636.82,Review,unknown
+REC0841,22-11-2024,unkown,Online,"4,851.03",678.25,Review,unknown
+REC0096,Apr 22 2024,Healthcare,Standard,"3,860.61",137.64,unknown,unknown
+REC0883,10-09-2024,retail,Standard,"1,323.85",766.65,unknown,unknown
+REC0911,Oct 24 2024,HEALTHCARE,Offline,"3,676.08",149.19,Review,unknown
+REC0543,03-09-2024, Retail ,Enterprise,"2,212.63",567.64,Inactive,unknown
+REC0200,Feb 29 2024, Technology ,Enterprise,"2,282.87",504.06505966587105,Review,unknown
+REC0288,Jul 07 2024, Retail ,Enterprise,"3,826.36",7.37,Inactive,unknown
+REC0550,2024/03/12,healthcare,Offline,"1,513.51",126.42,unknown,unknown
+REC0941,2024/08/17,healthcare,Basic,296.06,683.19,Active,unknown
+REC0709,19-01-2024,technology,Enterprise,"4,682.88",867.77,Active,unknown
+REC0724,02-08-2024,technology,Standard,"3,739.22",8.89,Inactive,unknown
+REC0276,Jul 17 2024,technology,Basic,"4,776.82",17.67,unknown,unknown
+REC0365,08-12-2024,retail,Standard,"1,318.03",676.62,Active,unknown
+REC0090,16-02-2024,retail,Standard,"1,567.38",504.06505966587105,Active,unknown
+REC0437,2024/03/02, Technology ,Enterprise,"4,794.17",371.83,Pending,unknown
+REC0334,15-09-2024,retail,Offline,"1,925.09",178.41,Pending,unknown
+REC0675,2024/03/21,RETAIL,Standard,"2,110.55",452.04,Inactive,unknown
+REC0562,2024/01/27, Technology ,Standard,"4,746.43",234.43,Review,unknown
+REC0549,30-04-2024,HEALTHCARE,Standard,"1,975.67",545.57,Review,unknown
+REC0810,2024/04/12,unkown,,171.34,680.28,unknown,unknown
+REC0174,16-02-2024, Retail ,Premium,338.42,597.92,Review,unknown
+REC0261,31-01-2024,RETAIL,Offline,"1,323.42",828.65,Review,unknown
+REC0607,13-11-2024,retail,Basic,527.81,179.63,Active,unknown
+REC0264,Aug 22 2024,healthcare,Enterprise,"2,048.81",825.02,Pending,unknown
+REC0382,2024/10/09,unkown,Enterprise,"4,357.36",443.62,Pending,unknown
+REC0915,2024/11/25,retail,Standard,"3,038.22",10.39,Pending,unknown
+REC0517,2024/01/26,healthcare,,"4,283.76",838.18,Active,unknown
+REC0705,2024/02/14, Retail ,Online,"3,510.56",27.79,Inactive,unknown
+REC0451,23-02-2024,retail,Basic,"1,615.92",284.89,Inactive,unknown
+REC0341,04-12-2024,Retail,Premium,"1,371.19",388.89,unknown,unknown
+REC0082,2024/07/27,retail,Online,"3,273.78",932.72,Pending,unknown
+REC0991,22-11-2024,technology,Enterprise,"2,441.84",281.26,Review,unknown
+REC0862,Jun 01 2024,healthcare,Enterprise,"1,005.96",20.73,Review,unknown
+REC0130,18-03-2024, Technology ,Premium,"2,997.96",75.12,Active,unknown
+REC0633,Aug 05 2024,retail,Basic,"3,810.94",504.06505966587105,unknown,unknown
+REC0690,2024/10/25,RETAIL,Online,"1,306.17",95.21,Pending,unknown
+REC0327,Dec 24 2024,HEALTHCARE,Offline,826.18,758.62,Active,unknown
+REC0227,May 23 2024,Retail,Premium,176.72,145.05,Review,unknown
+REC0537,03-10-2024,Retail,Standard,347.23,87.03,Review,unknown
+REC0013,2024/09/16,Healthcare,Enterprise,"3,083.95",762.75,Active,unknown
+REC0168,2024/11/24,RETAIL,Enterprise,"3,631.10",842.69,Active,unknown
+REC0909,06-01-2024,Healthcare,Online,"2,733.20",778.41,Active,unknown
+REC0564,Feb 19 2024,HEALTHCARE,Standard,"4,305.94",267.82,unknown,unknown
+REC0045,Dec 01 2024,unkown,Online,"3,914.26",804.31,Review,unknown
+REC0534,2024/08/27,Healthcare,,"3,816.62",210.64,Pending,unknown
+REC0779,2024/08/21,healthcare,Enterprise,"4,887.80",881.78,Active,unknown
+REC0875,02-04-2024,technology,Basic,"2,436.62",504.06505966587105,unknown,unknown
+REC0712,Nov 04 2024,RETAIL,Standard,"3,585.79",833.25,Pending,unknown
+REC0304,2024/03/22, Retail ,Standard,373.95,220.19,Review,unknown
+REC0252,Nov 10 2024,RETAIL,Offline,"1,596.36",693.74,Review,unknown
+REC0250,2024/10/22,technology,Premium,"1,065.66",504.06505966587105,Review,unknown
+REC0881,2024/11/11,Retail,Standard,"2,718.19",994.23,Active,unknown
+REC0325,2024/03/29, Retail ,Basic,484.01,202.72,Inactive,unknown
+REC0754,07-11-2024,unkown,,950.33,696.79,Review,unknown
+REC0622,2024/02/15,Healthcare,Enterprise,"2,364.39",914.96,Review,unknown
+REC0381,Nov 27 2024,technology,Standard,"1,509.43",926.56,Pending,unknown
+REC0716,23-06-2024,technology,Offline,"4,281.70",604.69,unknown,unknown
+REC0816,Sep 18 2024,technology,Online,"1,239.77",896.88,Review,unknown
+REC0551,2024/11/27, Technology ,Offline,514.85,416.44,Review,unknown
+REC0799,07-06-2024, Technology ,Enterprise,"4,701.86",502.97,Pending,unknown
+REC0315,Sep 02 2024, Retail ,Online,"4,016.05",504.06505966587105,unknown,unknown
+REC0830,2024/01/07,HEALTHCARE,Enterprise,"4,873.31",504.06505966587105,Review,unknown
+REC0937,25-01-2024,Healthcare,,"1,847.58",398.74,Review,unknown
+REC0021,2024/05/07,technology,Standard,"4,996.48",969.03,Inactive,unknown
+REC0720,23-06-2024,retail,Standard,"3,798.74",665.33,Review,unknown
+REC0149,Apr 05 2024,technology,Online,"4,771.68",786.63,Active,unknown
+REC0548,01-02-2024,Retail,,"2,844.15",110.59,Active,unknown
+REC0446,Oct 22 2024,technology,Premium,"1,840.03",488.01,Active,unknown
+REC0112,05-03-2024,technology,Basic,"4,973.68",454.26,Active,unknown
+REC0778,31-03-2024,Retail,Offline,"1,956.72",111.86,Pending,unknown
+REC0184,06-10-2024,Healthcare,Offline,"4,790.95",299.2,Pending,unknown
+REC0521,Nov 18 2024, Technology ,Enterprise,"4,676.07",287.9,Pending,unknown
+REC0239,2024/10/21,Healthcare,Basic,"1,888.58",200.6,Inactive,unknown
+REC0005,2024/07/12,healthcare,Standard,440.82,773.3,Inactive,unknown
+REC0345,2024/08/25,retail,Offline,"2,552.34",382.29,Active,unknown
+REC0934,Jun 09 2024,HEALTHCARE,Premium,"3,268.57",109.29,unknown,unknown
+REC0544,Mar 29 2024, Technology ,Enterprise,"2,368.25",822.2,Review,unknown
+REC0324,31-08-2024,Retail,Enterprise,"4,022.21",620.65,Review,unknown
+REC0981,15-03-2024,healthcare,Standard,"1,711.46",795.44,Active,unknown
+REC0136,Mar 07 2024,retail,Basic,"3,253.12",128.67,Active,unknown
+REC0165,05-03-2024, Technology ,Enterprise,"1,788.12",780.48,Inactive,unknown
+REC0616,Oct 16 2024, Technology ,Online,"3,685.04",140.28,Pending,unknown
+REC0747,Aug 25 2024, Technology ,,"3,204.35",19.6,Active,unknown
+REC0388,Feb 28 2024, Retail ,Enterprise,"4,601.18",40.84,Review,unknown
+REC0138,2024/04/25,Healthcare,Online,"2,587.68",738.91,Pending,unknown
+REC0186,21-07-2024,RETAIL,Premium,"4,781.04",504.06505966587105,Pending,unknown
+REC0376,24-06-2024,RETAIL,Enterprise,"3,530.07",299.61,Pending,unknown
+REC0203,26-05-2024,RETAIL,Standard,"3,264.82",992.86,Review,unknown
+REC0806,Jun 16 2024, Technology ,Online,"2,787.30",950.07,Pending,unknown
+REC0890,06-12-2024, Technology ,Standard,"3,600.17",764.63,Review,unknown
+REC0330,2024/07/09,Healthcare,Basic,"4,305.35",972.52,Pending,unknown
+REC0412,2024/03/25,Healthcare,Offline,871.05,817.14,Review,unknown
+REC0344,14-12-2024, Retail ,Standard,"4,370.02",886.96,Pending,unknown
+REC0141,09-04-2024, Technology ,Premium,"3,912.81",419.24,Inactive,unknown
+REC0895,20-01-2024,RETAIL,Enterprise,"1,078.25",380.97,Inactive,unknown
+REC0420,28-09-2024, Technology ,Basic,"1,817.54",907.95,Active,unknown
+REC0068,Jan 28 2024,RETAIL,Basic,602.68,504.06505966587105,Review,unknown
+REC0429,2024/11/10,healthcare,Online,"4,880.66",504.06505966587105,Review,unknown
+REC0240,Dec 15 2024,unkown,Standard,"1,127.28",831.45,unknown,unknown
+REC0326,31-10-2024,retail,Enterprise,"2,047.04",276.92,Active,unknown
+REC0084,21-05-2024,technology,Online,"1,485.91",587.35,Review,unknown
+REC0134,09-07-2024,healthcare,Online,"3,967.21",66.85,unknown,unknown
+REC0631,01-08-2024,retail,Online,"2,449.64",363.21,Pending,unknown
+REC0417,Aug 20 2024, Retail ,Offline,631.99,859.73,Review,unknown
+REC0294,19-08-2024,retail,Standard,"1,590.65",603.7,Pending,unknown
+REC0218,2024/06/17, Retail ,Standard,"4,722.98",763.6,Review,unknown
+REC0613,2024/02/29,RETAIL,Premium,"1,004.03",35.65,Pending,unknown
+REC0460,2024/05/17,Retail,Offline,172.15,420.82,Review,unknown
+REC0769,Nov 13 2024,Retail,Premium,"2,980.29",504.06505966587105,unknown,unknown
+REC0679,10-12-2024, Retail ,Premium,"1,511.01",131.07,Inactive,unknown
+REC0947,2024/03/20,RETAIL,Online,"1,192.95",669.48,Review,unknown
+REC0785,2024/10/19,healthcare,Online,758.22,504.06505966587105,Pending,unknown
+REC0313,Dec 28 2024,healthcare,Premium,"1,127.45",351.13,Active,unknown
+REC0985,2024/10/21,Healthcare,Basic,281.34,527.99,Active,unknown
+REC0912,02-04-2024,RETAIL,Basic,"4,722.44",282.76,Inactive,unknown
+REC0844,Dec 10 2024, Technology ,Basic,"4,779.75",541.13,Inactive,unknown
+REC0015,2024/09/05,technology,Offline,"3,332.78",165.96,Review,unknown
+REC0303,2024/11/01,unkown,Premium,387.10,529.9,Inactive,unknown
+REC0135,13-12-2024,RETAIL,Enterprise,"3,351.70",310.92,Review,unknown
+REC0173,22-03-2024,healthcare,Offline,"2,541.50",499.26,Active,unknown
+REC0914,2024/09/26,Retail,Basic,"1,981.55",504.06505966587105,unknown,unknown
+REC0598,2024/10/20,Retail,Basic,"3,694.03",426.27,Active,unknown
+REC0368,15-02-2024,retail,Standard,"3,301.53",504.06505966587105,Active,unknown
+REC0017,2024/05/06,Retail,Offline,"2,983.36",504.06505966587105,Active,unknown
+REC0353,Jul 11 2024,technology,Enterprise,"4,973.93",653.91,unknown,unknown
+REC0555,Aug 26 2024,retail,Standard,"3,734.26",79.0,Pending,unknown
+REC0273,07-08-2024, Retail ,Online,"1,316.02",721.46,Active,unknown
+REC0979,2024/08/18,technology,Basic,"1,538.02",645.45,Pending,unknown
+REC0095,2024/05/20,Retail,Standard,"2,533.96",286.91,Pending,unknown
+REC0457,2024/07/12,HEALTHCARE,Enterprise,"3,846.24",807.77,Pending,unknown
+REC0817,May 04 2024,RETAIL,Premium,"1,089.86",642.4,Review,unknown
+REC0115,2024/02/13,healthcare,Enterprise,393.91,562.12,Review,unknown
+REC0641,28-05-2024,retail,Basic,"4,701.50",13.77,Active,unknown
+REC0380,15-12-2024,Retail,Premium,"1,099.60",359.32,Inactive,unknown
+REC0597,24-08-2024,unkown,Offline,"1,314.37",223.18,Inactive,unknown
+REC0952,2024/07/26, Technology ,Enterprise,"1,149.11",184.89,unknown,unknown
+REC0601,26-12-2024,healthcare,Standard,"3,203.67",71.63,Pending,unknown
+REC0835,12-05-2024,retail,Offline,491.07,504.06505966587105,Active,unknown
+REC0638,Jul 06 2024, Technology ,Online,986.16,380.24,Inactive,unknown
+REC0504,Nov 06 2024, Retail ,Online,"1,860.38",477.13,Review,unknown
+REC0391,2024/11/16, Retail ,Basic,"4,194.76",828.92,Review,unknown
+REC0523,2024/11/08, Retail ,,217.54,118.81,Review,unknown
+REC0670,May 09 2024,healthcare,Standard,698.06,857.79,Review,unknown
+REC0928,Jul 12 2024,unkown,Premium,365.01,504.06505966587105,Review,unknown
+REC0579,2024/06/22,Retail,Offline,"4,054.81",458.91,Inactive,unknown
+REC0426,23-03-2024,Retail,Offline,"2,411.18",89.05,Pending,unknown
+REC0891,2024/03/08,Retail,Premium,"2,550.00",237.27,Pending,unknown
+REC0637,2024/09/27,Healthcare,Enterprise,121.21,924.31,Review,unknown
+REC0018,2024/04/27,healthcare,Offline,"1,464.54",539.69,Review,unknown
+REC0256,2024/05/29,technology,Basic,"2,871.69",495.82,Active,unknown
+REC0527,01-10-2024,HEALTHCARE,Online,"4,192.02",725.24,Active,unknown
+REC0233,Oct 12 2024,retail,,"1,834.18",504.06505966587105,Pending,unknown
+REC0491,2024/06/05, Technology ,Basic,319.90,200.49,Active,unknown
+REC0995,2024/03/07,HEALTHCARE,Enterprise,"2,615.97",188.77,Inactive,unknown
+REC0545,Feb 05 2024,HEALTHCARE,Standard,"3,334.81",504.06505966587105,Active,unknown
+REC0664,2024/09/05,retail,Premium,"4,349.14",407.6,Active,unknown
+REC0552,2024/11/15,HEALTHCARE,Basic,"1,985.10",425.35,unknown,unknown
+REC0191,22-07-2024,Healthcare,Online,"1,562.12",928.53,Review,unknown
+REC0906,May 31 2024,retail,Online,"2,714.47",639.98,Pending,unknown
+REC0508,2024/09/23,Retail,Offline,"2,641.64",735.43,Active,unknown
+REC0662,2024/07/26, Retail ,,"4,005.52",485.9,Review,unknown
+REC0739,2024/07/17,healthcare,Standard,"4,461.21",646.27,Active,unknown
+REC0502,2024/06/11,retail,Offline,"3,662.69",880.25,Review,unknown
+REC0718,Mar 26 2024, Retail ,Offline,"3,668.91",762.2,Active,unknown
+REC0440,2024/12/18,unkown,Enterprise,593.66,861.98,Pending,unknown
+REC0105,Feb 20 2024,healthcare,Premium,"1,030.06",504.06505966587105,Review,unknown
+REC0041,22-12-2024, Retail ,Basic,"3,418.86",615.9,Active,unknown
+REC0814,Feb 22 2024,RETAIL,Online,"3,039.35",696.62,Inactive,unknown
+REC0893,07-05-2024,Healthcare,Offline,"3,365.02",474.42,Active,unknown
+REC0749,Jul 10 2024, Retail ,Basic,"4,810.63",42.75,Pending,unknown
+REC0879,2024/02/10,retail,Online,514.47,929.66,Active,unknown
+REC0211,2024/07/28,RETAIL,Basic,"1,280.74",857.68,Review,unknown
+REC0498,16-12-2024,Healthcare,Enterprise,"1,451.80",504.06505966587105,Review,unknown
+REC0813,18-04-2024,Healthcare,Premium,315.30,411.69,Review,unknown
+REC0481,Jan 01 2024,Healthcare,Enterprise,761.92,7.56,Inactive,unknown
+REC0654,Jan 11 2024,Retail,Basic,"2,894.73",98.63,Inactive,unknown
+REC0884,02-06-2024, Retail ,,"3,192.76",923.13,Active,unknown
+REC0976,Jun 27 2024,Healthcare,Basic,"2,236.70",922.43,Inactive,unknown
+REC0164,Aug 27 2024,retail,Basic,"4,998.02",526.17,Active,unknown
+REC0854,2024/12/03,technology,Basic,"3,421.70",757.96,Pending,unknown
+REC0825,05-06-2024,technology,Online,"1,732.85",196.52,Active,unknown
+REC0994,Apr 16 2024,technology,Premium,"3,571.71",847.96,unknown,unknown
+REC0335,2024/06/25,Healthcare,Standard,542.92,504.06505966587105,unknown,unknown
+REC0398,Apr 17 2024,healthcare,Standard,"4,272.15",504.06505966587105,Pending,unknown
+REC0452,2024/09/26,unkown,Premium,"4,334.78",871.03,Review,unknown
+REC0836,2024/06/24, Technology ,Online,146.58,955.26,Active,unknown
+REC0155,Jul 07 2024,retail,Online,"2,209.98",181.28,Active,unknown
+REC0970,2024/12/03,RETAIL,Standard,"4,925.51",111.82,Active,unknown
+REC0228,09-02-2024, Retail ,Basic,"3,417.47",384.46,Active,unknown
+REC0014,02-11-2024,retail,Premium,"1,273.32",567.79,unknown,unknown
+REC0183,2024/12/27,technology,Standard,"2,444.02",956.73,Pending,unknown
+REC0767,2024/03/06, Technology ,Enterprise,"3,168.31",504.06505966587105,Active,unknown
+REC0190,Feb 15 2024,technology,Online,"4,574.83",882.36,Active,unknown
+REC0734,18-04-2024,RETAIL,Premium,"4,616.32",504.06505966587105,Active,unknown
+REC0106,Feb 16 2024,Retail,Premium,"1,293.49",504.06505966587105,Active,unknown
+REC0279,Jul 19 2024,retail,Basic,"3,676.80",58.85,unknown,unknown
+REC0793,Sep 12 2024,healthcare,Basic,"3,460.24",778.86,Pending,unknown
+REC0390,23-01-2024, Retail ,Online,"4,746.24",956.32,Active,unknown
+REC0410,Oct 23 2024,HEALTHCARE,Premium,"2,979.63",78.76,Inactive,unknown
+REC0833,2024/09/08,HEALTHCARE,Standard,"1,512.87",177.22,Inactive,unknown
+REC0771,2024/04/05,Retail,Premium,"2,964.16",652.05,Inactive,unknown
+REC0337,2024/08/30,Retail,Enterprise,"4,044.92",967.06,Review,unknown
+REC0745,Jan 14 2024,HEALTHCARE,Offline,"2,122.83",376.14,Active,unknown
+REC0204,2024/07/11,technology,Premium,681.30,393.67,Inactive,unknown
+REC0972,12-01-2024,retail,Basic,"1,938.75",908.39,Inactive,unknown
+REC0683,03-01-2024,HEALTHCARE,Basic,"3,389.18",504.06505966587105,Active,unknown
+REC0710,2024/09/27,healthcare,Premium,"4,475.10",473.86,Pending,unknown
+REC0944,29-12-2024, Technology ,Basic,"3,286.43",504.06505966587105,Review,unknown
+REC0336,2024/10/19, Retail ,Premium,"3,292.78",864.77,Active,unknown
+REC0882,06-11-2024,technology,Offline,468.10,514.17,Review,unknown
+REC0475,01-12-2024,retail,Standard,397.43,938.31,Pending,unknown
+REC0161,21-12-2024,RETAIL,Basic,946.02,997.27,Pending,unknown
+REC0773,04-08-2024, Retail ,Offline,"3,947.79",668.19,Review,unknown
+REC0145,Feb 20 2024,RETAIL,Premium,"4,595.24",831.28,Review,unknown
+REC0146,Aug 17 2024,unkown,Premium,"1,156.71",504.06505966587105,Review,unknown
+REC0554,Sep 04 2024, Technology ,Online,796.23,983.6,Pending,unknown
+REC0840,Mar 03 2024, Retail ,Enterprise,"3,462.31",515.4,Active,unknown
+REC0723,Jan 19 2024,RETAIL,Online,"4,890.89",799.27,Pending,unknown
+REC0040,Feb 05 2024,healthcare,Online,"3,626.80",309.98,Review,unknown
+REC0430,Jun 29 2024, Retail ,Standard,"3,547.75",550.04,Pending,unknown
+REC0128,Jun 28 2024,RETAIL,Offline,"1,354.24",153.72,Active,unknown
+REC0571,2024/09/08,RETAIL,Online,804.98,219.17,Review,unknown
+REC0008,2024/04/27,HEALTHCARE,Offline,"4,574.37",718.2,Review,unknown
+REC0411,21-09-2024,healthcare,Basic,"4,447.14",504.06505966587105,Review,unknown
+REC0565,Dec 01 2024, Retail ,Enterprise,"3,875.44",678.04,Pending,unknown
+REC0356,2024/05/24, Technology ,Offline,"3,912.00",973.15,Review,unknown
+REC0275,10-09-2024, Technology ,Online,"2,688.60",986.9,Inactive,unknown
+REC0407,2024/09/20,RETAIL,Enterprise,"3,331.13",736.18,Pending,unknown
+REC0500,2024/08/01,HEALTHCARE,Enterprise,"1,713.50",207.55,Inactive,unknown
+REC0553,Sep 12 2024,technology,Enterprise,"2,924.13",504.06505966587105,unknown,unknown
+REC0834,11-04-2024,retail,Offline,"1,009.63",504.06505966587105,Inactive,unknown
+REC0983,Oct 20 2024,HEALTHCARE,Premium,"1,070.94",504.06505966587105,Active,unknown
+REC0176,Jan 27 2024,healthcare,Online,"1,993.11",550.31,Active,unknown
+REC0916,2024/12/28, Technology ,Basic,"4,095.78",479.43,Pending,unknown
+REC0048,22-11-2024,technology,Offline,"1,445.53",504.06505966587105,Pending,unknown
+REC0119,22-06-2024,unkown,Enterprise,"3,320.99",504.06505966587105,Active,unknown
+REC0122,2024/09/19,retail,Standard,"3,006.36",309.11,Active,unknown
+REC0030,Apr 14 2024,Healthcare,Premium,"4,536.15",93.21,Pending,unknown
+REC0224,16-05-2024,HEALTHCARE,Offline,"4,952.14",684.36,Active,unknown
+REC0764,17-06-2024,retail,,"2,216.55",504.06505966587105,Pending,unknown
+REC0181,Jan 27 2024,technology,Enterprise,"3,895.57",821.84,Active,unknown
+REC0721,2024/04/26,HEALTHCARE,Basic,"4,764.02",682.52,Review,unknown
+REC0316,2024/05/13,RETAIL,Offline,"3,686.73",898.23,unknown,unknown
+REC0657,2024/10/23,Healthcare,Enterprise,"2,428.81",795.86,Pending,unknown
+REC0876,Sep 19 2024,RETAIL,Enterprise,"3,703.57",504.06505966587105,Pending,unknown
+REC0060,03-08-2024,healthcare,Basic,"3,565.81",734.06,Pending,unknown
+REC0071,24-09-2024, Technology ,Enterprise,"4,951.15",621.41,Active,unknown
+REC0689,2024/03/16, Retail ,Offline,"4,191.27",822.75,Inactive,unknown
+REC0219,2024/08/23,healthcare,Standard,"2,778.08",889.48,Active,unknown
+REC0587,2024/05/02,Retail,Standard,"2,549.45",627.56,Pending,unknown
+REC0789,Apr 07 2024,RETAIL,Standard,"3,725.12",9.53,Pending,unknown
+REC0651,2024/06/13,unkown,Premium,"1,809.50",27.87,Pending,unknown
+REC0626,Nov 17 2024,retail,Standard,"2,918.79",163.68,unknown,unknown
+REC0194,14-02-2024,RETAIL,Basic,"1,685.65",261.52,Pending,unknown
+REC0393,01-04-2024, Retail ,Basic,"2,001.36",433.59,unknown,unknown
+REC0980,2024/07/22,healthcare,Offline,"1,852.95",504.06505966587105,Pending,unknown
+REC0027,05-01-2024,retail,Offline,"2,578.84",504.06505966587105,Active,unknown
+REC0704,Aug 23 2024, Technology ,Enterprise,"1,867.57",690.6,Pending,unknown
+REC0615,2024/06/12,unkown,Enterprise,"1,723.28",474.44,Inactive,unknown
+REC0671,10-05-2024, Retail ,Offline,"4,587.86",879.59,Review,unknown
+REC0378,Sep 14 2024,healthcare,Premium,"2,855.17",942.73,Pending,unknown
+REC0351,Aug 10 2024,healthcare,Basic,"1,860.33",948.14,Review,unknown
+REC0998,28-01-2024,retail,Basic,"3,686.81",294.71,Pending,unknown
+REC0563,30-08-2024,HEALTHCARE,,"4,643.39",678.81,Active,unknown
+REC0903,Mar 26 2024,RETAIL,Enterprise,397.89,191.0,Review,unknown
+REC0312,Nov 23 2024, Technology ,Standard,481.25,320.2,Active,unknown
+REC0274,03-12-2024,technology,Basic,"1,548.16",504.06505966587105,Inactive,unknown
+REC0865,Feb 14 2024,Retail,Online,"2,580.13",544.88,Active,unknown
+REC0416,2024/09/03,HEALTHCARE,Enterprise,"4,120.22",659.99,Pending,unknown
+REC0645,Apr 28 2024,Retail,Online,"4,168.53",27.72,Pending,unknown
+REC0397,Jan 06 2024,RETAIL,Online,"2,906.32",547.98,unknown,unknown
+REC0930,Aug 28 2024,technology,Premium,"2,403.90",444.53,Active,unknown
+REC0923,Aug 06 2024,retail,Offline,991.17,320.0,Review,unknown
+REC0011,2024/11/01, Technology ,Enterprise,"4,317.82",504.06505966587105,Pending,unknown
+REC0117,2024/09/16, Technology ,Online,"1,815.56",115.77,Inactive,unknown
+REC0586,Dec 27 2024,Healthcare,Basic,"3,492.56",640.19,Review,unknown
+REC0245,19-07-2024,technology,Online,"2,465.58",920.63,unknown,unknown
+REC0649,08-09-2024,HEALTHCARE,Online,"2,887.39",554.23,Review,unknown
+REC0221,Feb 04 2024, Retail ,Premium,396.21,933.97,Review,unknown
+REC0964,03-01-2024,Retail,Premium,"4,219.77",741.5,Inactive,unknown
+REC0333,2024/04/08, Retail ,,347.74,199.91,Review,unknown
+REC0929,2024/10/31,healthcare,Offline,477.62,813.9,Inactive,unknown
+REC0260,Jun 14 2024,Healthcare,Enterprise,"4,928.89",96.13,Review,unknown
+REC0872,04-07-2024,RETAIL,Offline,"1,440.87",504.06505966587105,Inactive,unknown
+REC0920,Jan 23 2024,HEALTHCARE,Enterprise,988.69,893.22,Pending,unknown
+REC0054,2024/04/03,healthcare,Premium,"1,753.75",278.98,Review,unknown
+REC0999,Sep 28 2024,HEALTHCARE,Online,"3,267.09",220.36,unknown,unknown
+REC0371,02-01-2024,Healthcare,Premium,"3,540.27",504.06505966587105,Inactive,unknown
+REC0516,2024/05/01, Technology ,Basic,489.08,245.47,Inactive,unknown
+REC0918,2024/04/24,HEALTHCARE,Standard,"1,505.55",684.73,Active,unknown
+REC0874,Jun 27 2024,Healthcare,Enterprise,585.42,504.06505966587105,Review,unknown
+REC0246,13-03-2024, Technology ,Enterprise,"2,466.34",438.73,Pending,unknown
+REC0954,Jun 30 2024,Retail,Enterprise,"1,072.94",578.91,Pending,unknown
+REC0685,13-03-2024,Retail,Basic,"4,371.23",748.08,Pending,unknown
+REC0905,2024/01/02,Retail,Enterprise,"2,331.66",525.55,Inactive,unknown
+REC0379,2024/08/04,Retail,Online,"3,384.25",750.43,Pending,unknown
+REC0307,Jan 11 2024,healthcare,Offline,"4,051.58",178.28,Pending,unknown
+REC0214,2024/09/02,healthcare,Online,"1,137.86",741.73,Review,unknown
+REC0487,2024/03/19,HEALTHCARE,Enterprise,"2,918.75",504.06505966587105,Review,unknown
+REC0037,Nov 24 2024,technology,Online,665.17,179.39,Pending,unknown
+REC0860,Aug 25 2024, Technology ,Online,671.48,504.06505966587105,Inactive,unknown
+REC0019,04-05-2024, Retail ,Standard,"2,212.15",467.56,Active,unknown
+REC0392,2024/11/27,RETAIL,,"3,612.65",504.06505966587105,unknown,unknown
+REC0955,2024/01/08,RETAIL,Premium,656.67,406.98,Active,unknown
+REC0360,2024/02/29,Retail,,778.13,329.33,Pending,unknown
+REC0843,2024/11/06,technology,Standard,"2,572.72",504.06505966587105,Pending,unknown
+REC0464,Oct 08 2024, Technology ,Offline,"1,866.09",504.06505966587105,Active,unknown
+REC0289,04-10-2024,Retail,Online,"3,818.75",738.34,Inactive,unknown
+REC0561,2024/07/15,RETAIL,Standard,"4,224.98",504.06505966587105,Active,unknown
+REC0792,23-12-2024, Technology ,Online,"1,936.03",129.22,Active,unknown
+REC0038,2024/01/20,healthcare,Premium,"2,238.33",116.53,Inactive,unknown
+REC0253,2024/11/01,HEALTHCARE,Standard,"2,733.16",930.76,Inactive,unknown
+REC0546,Mar 16 2024,technology,Enterprise,"2,931.86",681.84,Pending,unknown
+REC0606,02-02-2024, Technology ,Online,"2,403.80",825.55,Review,unknown
+REC0338,11-07-2024, Retail ,Standard,"2,651.13",584.9,unknown,unknown
+REC0733,2024/08/01,RETAIL,Basic,733.99,863.41,unknown,unknown
+REC0665,Jul 22 2024, Retail ,Standard,"2,551.22",504.06505966587105,Pending,unknown
+REC0061,Nov 11 2024, Technology ,Standard,"3,003.13",246.25,Pending,unknown
+REC0852,May 20 2024, Retail ,Standard,"4,835.83",504.06505966587105,Inactive,unknown
+REC0811,Feb 19 2024,RETAIL,Enterprise,627.65,562.49,Inactive,unknown
+REC0347,11-02-2024,RETAIL,Online,123.10,761.43,Inactive,unknown
+REC0034,2024/05/01,RETAIL,Online,978.87,782.6,Inactive,unknown
+REC0625,2024/01/15, Technology ,Online,"3,034.57",481.01,Pending,unknown
+REC0270,2024/09/01,retail,Online,605.69,299.96,Inactive,unknown
+REC0483,2024/07/01,healthcare,Offline,"1,241.67",92.81,Inactive,unknown
+REC0114,Jul 31 2024,HEALTHCARE,Premium,"1,934.08",923.06,unknown,unknown
+REC0059,Dec 16 2024,Retail,Basic,"3,341.45",504.06505966587105,Active,unknown
+REC0866,07-05-2024,technology,Premium,"3,329.87",577.49,Pending,unknown
+REC0320,2024/04/12,unkown,Premium,"4,887.58",116.39,Review,unknown
+REC0569,30-05-2024,retail,Premium,"3,869.86",667.91,Pending,unknown
+REC0248,2024/09/21,healthcare,Basic,"1,236.09",185.27,Review,unknown
+REC0077,10-12-2024,RETAIL,Standard,"2,266.92",996.95,Review,unknown
+REC0295,2024/03/16,healthcare,Online,"3,418.20",990.69,unknown,unknown
+REC0162,07-12-2024,technology,Premium,"4,271.67",927.4,Pending,unknown
+REC0623,May 28 2024,Healthcare,Premium,"2,521.09",225.3,Inactive,unknown
+REC0659,Jan 10 2024,RETAIL,Offline,"3,337.95",938.16,Review,unknown
+REC0869,2024/11/28,retail,Standard,"2,184.18",536.37,unknown,unknown
+REC0897,30-12-2024,Retail,Online,355.44,212.77,Active,unknown
+REC0857,2024/11/29,retail,Offline,"1,945.12",679.77,Active,unknown
+REC0230,2024/06/16, Technology ,Premium,"2,809.88",186.55,Review,unknown
+REC0024,2024/06/09, Technology ,Enterprise,871.42,81.03,Active,unknown
+REC0339,05-12-2024,Healthcare,Online,"2,460.52",277.21,Pending,unknown
+REC0053,Nov 14 2024,unkown,Enterprise,"3,348.70",504.06505966587105,Review,unknown
+REC0237,21-07-2024,HEALTHCARE,Premium,"2,257.09",823.71,Inactive,unknown
+REC0962,24-04-2024,retail,Basic,"4,757.70",793.96,Review,unknown
+REC0121,2024/01/27,Retail,Premium,"2,271.25",607.47,Inactive,unknown
+REC0104,2024/12/01,HEALTHCARE,Premium,260.31,443.94,Pending,unknown
+REC0306,2024/10/15, Technology ,Offline,"2,503.14",504.06505966587105,Inactive,unknown
+REC0530,01-05-2024,Healthcare,Premium,957.56,38.36,Active,unknown
+REC0801,23-08-2024,retail,Basic,"1,799.23",792.55,Inactive,unknown
+REC0081,Aug 12 2024,Retail,Enterprise,"4,016.64",311.44,unknown,unknown
+REC0073,2024/05/29,Healthcare,Basic,448.78,265.29,Inactive,unknown
+REC0820,23-09-2024,Retail,Basic,442.93,634.73,Inactive,unknown
+REC0715,Mar 30 2024,retail,Online,"3,126.06",504.06505966587105,Pending,unknown
+REC0741,Oct 18 2024, Technology ,Online,689.39,180.56,unknown,unknown
+REC0831,25-03-2024,Healthcare,Enterprise,"3,326.58",308.67,Active,unknown
+REC0992,2024/04/25,Healthcare,Premium,"2,836.72",659.82,Inactive,unknown
+REC0648,15-07-2024,HEALTHCARE,Online,261.01,860.5,Inactive,unknown
+REC0658,15-09-2024,technology,Basic,"2,071.27",453.78,Inactive,unknown
+REC0885,Aug 25 2024,Retail,Enterprise,"2,355.73",108.06,Inactive,unknown
+REC0213,18-08-2024, Retail ,Basic,"3,400.99",873.75,Inactive,unknown
+REC0195,17-06-2024,Retail,Premium,"3,494.57",504.06505966587105,unknown,unknown
+REC0509,07-04-2024,Healthcare,Premium,"2,360.60",613.52,unknown,unknown
+REC0541,2024/01/16,healthcare,Offline,"1,483.06",575.1,Review,unknown
+REC0707,2024/03/26, Technology ,Basic,196.18,243.39,Review,unknown
+REC0349,08-01-2024,technology,Standard,120.21,227.04,Pending,unknown
+REC0074,2024/08/05,RETAIL,Offline,449.91,308.3,Pending,unknown
+REC0701,2024/09/14, Technology ,Offline,"4,230.26",504.06505966587105,Pending,unknown
+REC0418,Mar 17 2024, Technology ,Enterprise,291.28,503.83,unknown,unknown
+REC0984,20-05-2024, Technology ,Premium,"2,996.74",22.25,unknown,unknown
+REC0904,Dec 16 2024,retail,Enterprise,"1,982.34",401.45,Inactive,unknown
+REC0750,2024/11/30,unkown,Basic,"1,439.18",680.32,Inactive,unknown
+REC0672,18-01-2024, Technology ,Basic,"4,639.84",422.94,Active,unknown
+REC0618,2024/04/10, Technology ,Online,"4,881.61",490.97,Active,unknown
+REC0025,2024/12/11, Retail ,Online,"3,134.97",584.09,Pending,unknown
+REC0805,2024/01/14, Technology ,Standard,"2,056.77",38.74,Inactive,unknown
+REC0197,2024/11/10,RETAIL,Basic,"3,763.90",416.43,Review,unknown
+REC0542,24-02-2024,retail,Enterprise,"2,358.78",239.34,Inactive,unknown
+REC0445,Aug 18 2024,healthcare,Enterprise,"4,666.04",20.82,Inactive,unknown
+REC0166,07-03-2024,Retail,Enterprise,849.78,323.34,Pending,unknown
+REC0207,2024/04/15,Retail,Standard,"3,546.10",504.06505966587105,Review,unknown
+REC0231,Feb 13 2024, Retail ,Online,"1,413.06",784.11,Review,unknown
+REC0293,2024/04/13,retail,Offline,"2,302.88",121.62,Inactive,unknown
+REC0449,Oct 27 2024,HEALTHCARE,Online,712.70,252.4,Active,unknown
+REC0503,04-06-2024,Healthcare,Offline,623.18,762.69,Pending,unknown
+REC0259,Dec 29 2024,RETAIL,Offline,"4,086.30",570.5,Inactive,unknown
+REC0201,Aug 21 2024, Technology ,Premium,"3,644.07",816.64,Active,unknown
+REC0845,Dec 03 2024,HEALTHCARE,Online,885.15,902.75,Inactive,unknown
+REC0570,2024/03/23,Retail,Premium,"4,980.20",812.99,Active,unknown
+REC0588,2024/08/02, Retail ,Enterprise,"4,886.28",862.87,Inactive,unknown
+REC0137,Nov 26 2024,healthcare,,"1,613.44",342.39,Inactive,unknown
+REC0977,Dec 17 2024,HEALTHCARE,Enterprise,"1,626.77",953.81,Review,unknown
+REC0967,Nov 19 2024,Healthcare,Offline,"4,748.63",94.17,Inactive,unknown
+REC0975,2024/02/28,unkown,Online,"3,665.95",268.32,Active,unknown
+REC0329,21-05-2024,HEALTHCARE,,"4,458.91",238.34,Pending,unknown
+REC0610,Jul 29 2024,healthcare,Standard,"3,514.63",445.81,Inactive,unknown
+REC0800,2024/04/13, Technology ,Basic,"3,063.76",329.56,Review,unknown
+REC0384,2024/09/20,HEALTHCARE,Premium,737.33,255.76,Inactive,unknown
+REC0829,Nov 19 2024,RETAIL,Basic,"4,726.90",504.06505966587105,Inactive,unknown
+REC0075,2024/08/12,Healthcare,Premium,"2,552.31",81.36,unknown,unknown
+REC0039,2024/05/10,Retail,Enterprise,"3,465.60",737.3,Review,unknown
+REC0742,2024/04/15, Technology ,Enterprise,"3,073.59",45.94,Active,unknown
+REC0849,06-03-2024,Retail,Enterprise,"2,724.45",979.87,Pending,unknown
+REC0064,2024/10/11, Technology ,Online,555.96,692.1,Pending,unknown
+REC0066,08-04-2024,technology,Standard,"1,007.23",484.71,Pending,unknown
+REC0818,2024/06/17,Retail,Basic,"3,275.43",24.67,Pending,unknown
+REC0394,2024/12/10,retail,Enterprise,323.03,358.34,Pending,unknown
+REC0650,Aug 31 2024,technology,Premium,"2,523.99",617.32,Pending,unknown
+REC0108,03-10-2024,retail,Online,745.84,788.64,Active,unknown
+REC0243,May 07 2024,RETAIL,Online,"2,859.78",647.1,Pending,unknown
+REC0738,Sep 15 2024, Technology ,Offline,"4,345.09",800.01,Review,unknown
+REC0629,Jun 10 2024,Healthcare,Standard,"1,876.36",352.28,Inactive,unknown
+REC0699,16-12-2024,technology,Enterprise,333.87,504.06505966587105,unknown,unknown
+REC0512,Jun 14 2024,RETAIL,Online,546.84,634.44,unknown,unknown
+REC0109,30-03-2024,HEALTHCARE,Standard,411.43,362.68,Review,unknown
+REC0871,10-06-2024, Retail ,Online,"2,704.20",407.37,Active,unknown
+REC0238,02-06-2024, Retail ,Offline,"4,826.42",292.16,Review,unknown
+REC0660,Oct 16 2024,technology,Basic,823.94,685.62,Review,unknown
+REC0031,2024/01/23,RETAIL,Premium,891.75,705.96,Active,unknown
+REC0047,Nov 09 2024,HEALTHCARE,Enterprise,"2,284.98",861.63,Inactive,unknown
+REC0640,12-02-2024,HEALTHCARE,Enterprise,"3,707.25",841.25,Review,unknown
+REC0414,Oct 20 2024,technology,,"2,904.12",504.06505966587105,Inactive,unknown
+REC0768,30-05-2024,HEALTHCARE,Enterprise,"3,958.63",453.96,Review,unknown
+REC0357,2024/05/31, Technology ,Standard,"4,672.31",3.74,Active,unknown
+REC0744,2024/05/26,retail,Basic,"3,425.18",504.06505966587105,Inactive,unknown
+REC0693,2024/04/18,Healthcare,Online,"3,744.62",602.69,unknown,unknown
+REC0332,Jan 29 2024,retail,Enterprise,"2,076.59",524.76,Inactive,unknown
+REC0133,Jun 24 2024,RETAIL,,"3,567.35",524.54,Pending,unknown
+REC0266,16-11-2024,unkown,Offline,"2,262.30",504.06505966587105,Inactive,unknown
+REC0539,2024/10/17, Technology ,Premium,"3,453.94",465.93,Inactive,unknown
+REC0590,Mar 22 2024,Retail,Premium,"1,126.99",617.2,Review,unknown
+REC0185,May 27 2024, Technology ,Premium,"2,846.39",721.94,Review,unknown
+REC0621,Mar 12 2024,RETAIL,Basic,"4,943.07",336.08,Review,unknown
+REC0484,Feb 09 2024, Technology ,Standard,"3,543.95",96.27,Active,unknown
+REC0386,Feb 07 2024, Retail ,Enterprise,434.06,416.52,Active,unknown
+REC0022,26-03-2024, Retail ,Online,906.72,504.06505966587105,Review,unknown
+REC0070,2024/03/18,Healthcare,Offline,680.41,606.71,Inactive,unknown
+REC0404,2024/11/16,Retail,Standard,252.85,405.73,Active,unknown
+REC0673,Mar 23 2024,retail,Enterprise,"3,673.23",327.44,Active,unknown
+REC0286,2024/07/09,Retail,Enterprise,"4,908.93",69.86,Pending,unknown
+REC0808,19-03-2024, Retail ,Standard,"2,708.26",48.71,Active,unknown
+REC0471,2024/04/04,healthcare,Offline,"1,671.40",504.06505966587105,Review,unknown
+REC0348,2024/09/07,HEALTHCARE,Basic,"2,202.22",5.66,Pending,unknown
+REC0577,18-12-2024, Technology ,Offline,274.92,504.06505966587105,Inactive,unknown
+REC0902,13-10-2024, Technology ,Online,"4,563.16",504.06505966587105,Active,unknown
+REC0156,10-02-2024,Healthcare,Standard,"2,187.97",352.2,unknown,unknown
+REC0179,Jul 20 2024,Healthcare,Enterprise,"4,158.62",709.03,Active,unknown
+REC0065,Aug 30 2024,HEALTHCARE,Enterprise,"1,720.88",271.65,Active,unknown
+REC0526,2024/03/30,healthcare,Basic,"4,589.20",646.01,Review,unknown
+REC0400,2024/02/20, Technology ,Premium,728.25,100.95,Inactive,unknown
+REC0538,11-11-2024, Retail ,Standard,"4,065.57",504.06505966587105,Review,unknown
+REC0960,20-11-2024,retail,Online,539.23,504.06505966587105,Active,unknown
+REC0216,06-06-2024, Technology ,Standard,"2,400.50",914.42,Review,unknown
+REC0826,Jan 07 2024,healthcare,Basic,"4,707.40",373.77,Active,unknown
+REC0513,28-12-2024,technology,Offline,"1,955.53",768.49,Inactive,unknown
+REC0823,10-02-2024,RETAIL,Basic,"2,575.93",760.56,Review,unknown
+REC0163,2024/09/17, Retail ,Offline,"3,972.83",504.06505966587105,Pending,unknown
+REC0010,2024/07/04,RETAIL,Online,"3,803.33",153.69,Review,unknown
+REC0284,2024/09/17,Retail,Basic,"1,883.48",179.78,Active,unknown
+REC0822,Mar 25 2024,HEALTHCARE,Offline,"1,585.19",967.76,Review,unknown
+REC0853,Apr 17 2024, Retail ,Online,"4,623.47",856.92,Pending,unknown
+REC0873,2024/07/12,retail,Standard,"4,390.01",806.99,unknown,unknown
+REC0044,05-05-2024,retail,Standard,"2,920.79",384.59,Inactive,unknown
+REC0456,2024/11/01,technology,Basic,"4,422.59",250.65,Review,unknown
+REC0635,Mar 04 2024, Retail ,Premium,243.37,504.06505966587105,Pending,unknown
+REC0667,2024/08/04,RETAIL,Premium,"2,253.43",589.89,Pending,unknown
+REC0661,29-07-2024,retail,Basic,"1,407.98",161.42,Inactive,unknown
+REC0035,2024/05/16,retail,Online,"4,307.11",816.77,Pending,unknown
+REC0969,2024/04/05, Retail ,Enterprise,"4,218.24",807.29,Pending,unknown
+REC0804,2024/07/07,technology,Premium,"2,109.47",208.16,unknown,unknown
+REC0012,24-11-2024,HEALTHCARE,Online,"4,773.70",264.13,Inactive,unknown
+REC0399,2024/04/09,Retail,Enterprise,"2,360.20",291.36,unknown,unknown
+REC0859,2024/05/05,HEALTHCARE,Standard,"3,021.16",745.46,Active,unknown
+REC0748,May 06 2024,RETAIL,Basic,"2,285.31",500.93,Inactive,unknown
+REC0469,Oct 04 2024,RETAIL,Premium,"3,688.77",831.52,Inactive,unknown
+REC0894,Dec 24 2024,RETAIL,Enterprise,"3,181.65",504.06505966587105,Review,unknown
+REC0942,Mar 19 2024, Technology ,Online,798.85,547.59,Active,unknown
+REC0436,Sep 12 2024, Retail ,Offline,"1,223.12",836.5,Active,unknown
+REC0847,Oct 21 2024,healthcare,Standard,"3,740.54",654.27,Review,unknown
+REC0476,2024/12/28,Healthcare,Standard,444.90,944.66,Active,unknown
+REC0780,2024/03/01,RETAIL,Offline,"2,709.52",318.63,Inactive,unknown
+REC0868,Nov 04 2024,healthcare,Standard,"3,149.33",504.06505966587105,Review,unknown
+REC0727,Feb 17 2024,technology,Standard,884.13,504.06505966587105,Pending,unknown
+REC0282,16-01-2024,Healthcare,Premium,"3,590.38",77.99,Pending,unknown
+REC0870,May 17 2024, Retail ,Enterprise,"3,320.86",605.34,Inactive,unknown
+REC0377,Dec 30 2024, Retail ,Enterprise,"3,600.48",921.27,Inactive,unknown
+REC0505,Dec 30 2024,HEALTHCARE,Offline,902.55,409.18,Pending,unknown
+REC0603,Jun 20 2024,technology,Standard,"1,883.55",504.06505966587105,Review,unknown
+REC0103,Apr 30 2024, Technology ,Standard,"3,512.77",587.75,Review,unknown
+REC0684,2024/10/24,technology,Premium,"4,401.69",504.06505966587105,Review,unknown
+REC0697,2024/11/10,HEALTHCARE,Enterprise,"1,774.55",225.01,Inactive,unknown
+REC0926,09-01-2024,RETAIL,Online,"4,565.67",849.48,Inactive,unknown
+REC0492,Feb 27 2024,RETAIL,Premium,167.29,112.17,Active,unknown
+REC0488,2024/03/16, Technology ,Online,"2,785.95",399.13,Inactive,unknown
+REC0743,23-06-2024,Retail,Premium,"1,971.85",504.06505966587105,Inactive,unknown
+REC0762,10-09-2024,Retail,Offline,330.13,532.88,Review,unknown
+REC0766,Nov 03 2024,retail,Enterprise,711.65,916.8,Active,unknown
+REC0175,May 26 2024,unkown,Offline,"4,424.03",764.09,Review,unknown
+REC0247,04-02-2024,retail,,"1,781.08",504.06505966587105,Inactive,unknown
+REC0714,21-02-2024, Technology ,Offline,"2,828.47",359.43,Inactive,unknown
+REC0993,2024/12/21, Technology ,Online,"3,385.44",385.68,Pending,unknown
+REC0023,26-05-2024,technology,Basic,858.50,968.74,Active,unknown
+REC0652,2024/07/13,healthcare,Online,"3,340.08",648.43,Active,unknown
+REC0150,18-07-2024,HEALTHCARE,Premium,"3,761.85",68.49,Active,unknown
+REC0892,Aug 07 2024,HEALTHCARE,Premium,"2,481.05",248.5,Inactive,unknown
+REC0908,2024/06/15,technology,Offline,"2,100.88",325.31,unknown,unknown
+REC0632,Mar 29 2024,retail,Standard,797.56,126.22,Active,unknown
+REC0674,Nov 24 2024, Technology ,Offline,115.07,306.24,Active,unknown
+REC0450,2024/04/17,retail,Basic,"2,787.33",504.06505966587105,Active,unknown
+REC0945,21-01-2024,HEALTHCARE,Enterprise,"4,593.99",504.06505966587105,Pending,unknown
+REC0267,2024/12/18,Healthcare,Premium,557.37,83.34,Inactive,unknown
+REC0560,2024/09/05,Retail,Online,"4,839.99",821.9,Review,unknown
+REC0241,Jul 28 2024,Healthcare,Standard,855.30,377.61,Review,unknown
+REC0189,2024/03/11,RETAIL,Basic,"2,439.50",963.95,Active,unknown
+REC0415,21-09-2024,Retail,Standard,"3,342.55",86.66,Review,unknown
+REC0308,2024/01/31,RETAIL,Enterprise,"4,317.28",374.22,Review,unknown
+REC0770,Feb 04 2024, Retail ,Offline,"3,223.08",421.59,Review,unknown
+REC0783,Sep 12 2024,healthcare,Enterprise,"3,503.10",495.3,Review,unknown
+REC0957,20-04-2024, Retail ,Enterprise,"4,780.01",364.43,Pending,unknown
+REC0455,25-06-2024,Retail,Basic,"4,740.09",10.12,Pending,unknown
+REC0518,2024/01/26,RETAIL,Premium,"3,094.34",595.37,Inactive,unknown
+REC0026,Apr 14 2024, Retail ,Offline,"3,391.28",316.86,Active,unknown
+REC0107,2024/10/10, Retail ,Offline,"3,964.35",278.0,Inactive,unknown
+REC0761,02-01-2024,Retail,Premium,"2,219.49",274.76,Review,unknown
+REC0254,07-09-2024,healthcare,Enterprise,362.70,10.57,Review,unknown
+REC0777,2024/01/23,Healthcare,Premium,"3,622.30",554.95,Active,unknown
+REC0949,24-07-2024,healthcare,Basic,"1,141.91",115.21,Inactive,unknown
+REC0124,2024/03/30, Retail ,Standard,"4,050.38",504.06505966587105,Active,unknown
+REC0619,07-12-2024,HEALTHCARE,Premium,159.73,308.78,Active,unknown
+REC0157,Jun 29 2024,Healthcare,Online,467.70,363.95,Inactive,unknown
+REC0973,2024/06/01,Retail,Premium,"4,969.32",614.39,Inactive,unknown
+REC0069,13-08-2024,Retail,Basic,659.03,504.06505966587105,Active,unknown
+REC0118,Aug 07 2024,technology,,"4,652.51",268.18,Pending,unknown
+REC0206,2024/05/21,retail,,"3,334.97",936.3,Inactive,unknown
+REC0925,Feb 12 2024,technology,Standard,"4,075.33",88.16,Inactive,unknown
+REC0497,Oct 14 2024,unkown,Enterprise,"1,594.14",744.65,unknown,unknown
+REC0790,25-07-2024,Retail,Enterprise,"4,947.45",865.6,Inactive,unknown
+REC0737,23-01-2024,Healthcare,Premium,"3,928.61",720.31,Inactive,unknown
+REC0861,Jan 12 2024, Technology ,Standard,563.31,384.58,Review,unknown
+REC0839,01-07-2024,Retail,Standard,"2,068.86",925.11,unknown,unknown
+REC0887,2024/01/04,Healthcare,Basic,"1,934.12",892.3,Pending,unknown
+REC1000,Jan 19 2024,retail,Premium,"1,209.68",716.11,Active,unknown
+REC0692,Aug 20 2024,Retail,Online,"3,315.25",325.59,Inactive,unknown
+REC0229,Sep 13 2024,Retail,Offline,"4,209.51",769.24,Review,unknown
+REC0140,Jul 05 2024, Technology ,Standard,"3,940.62",239.93,Review,unknown
+REC0576,23-08-2024,RETAIL,Basic,"3,337.60",390.71,unknown,unknown
+REC0148,Nov 01 2024,unkown,Offline,"3,620.87",2.56,Review,unknown
+REC0529,Oct 19 2024,retail,Premium,"3,555.80",32.6,Review,unknown
+REC0210,Nov 16 2024, Technology ,Premium,"4,713.77",786.02,Review,unknown
+REC0948,Nov 24 2024, Technology ,Offline,"3,685.71",922.57,Inactive,unknown
+REC0796,2024/02/17,technology,Standard,"3,056.48",504.06505966587105,Review,unknown
+REC0735,02-03-2024,Retail,Online,"1,920.19",303.96,Inactive,unknown
+REC0758,19-01-2024, Retail ,,"4,922.89",111.84,Review,unknown
+REC0524,2024/07/30,technology,Offline,155.36,282.35,Pending,unknown
+REC0691,Dec 14 2024,healthcare,Online,"4,201.19",81.98,Review,unknown
+REC0599,19-08-2024,technology,Standard,"3,685.75",133.58,Active,unknown
+REC0987,2024/11/09, Technology ,Standard,"4,839.05",504.06505966587105,Active,unknown
+REC0125,2024/08/11,retail,Enterprise,"2,203.49",640.5,Review,unknown
+REC0063,May 23 2024,Healthcare,Enterprise,"4,745.51",504.06505966587105,Review,unknown
+REC0958,2024/09/14, Technology ,Premium,"1,825.83",523.65,Active,unknown
+REC0708,27-01-2024,unkown,Standard,"2,215.76",496.21,Pending,unknown
+REC0494,Jul 11 2024,technology,Offline,394.54,696.83,Review,unknown
+REC0798,2024/07/19,RETAIL,Basic,"3,741.40",903.68,Inactive,unknown
+REC0996,17-12-2024,retail,Online,"3,750.63",894.2,Active,unknown
+REC0100,12-10-2024,HEALTHCARE,,"2,729.20",673.16,Review,unknown
+REC0609,30-08-2024,Retail,Online,207.98,835.11,Pending,unknown
+REC0611,2024/06/05, Retail ,Premium,"3,871.77",504.06505966587105,Review,unknown
+REC0110,2024/09/14,Retail,Standard,"2,655.11",964.06,unknown,unknown
+REC0666,2024/09/11,retail,Premium,"1,713.50",390.56,Inactive,unknown
+REC0057,2024/07/07,retail,Offline,"4,827.13",504.06505966587105,unknown,unknown
+REC0087,2024/09/10,healthcare,Basic,588.59,16.33,Inactive,unknown
+REC0056,2024/01/16,Retail,Offline,718.48,564.41,Pending,unknown
+REC0472,Apr 07 2024,technology,Premium,"1,680.74",111.35,Active,unknown
+REC0782,Sep 17 2024, Retail ,Basic,"3,975.89",168.27,Pending,unknown
+REC0474,02-12-2024,Healthcare,Offline,"3,069.17",504.06505966587105,Inactive,unknown
+REC0007,Sep 30 2024, Technology ,Standard,"3,471.99",324.96,Active,unknown
+REC0687,Oct 11 2024, Technology ,Offline,367.38,470.78,Review,unknown
+REC0413,Jun 18 2024, Technology ,Enterprise,890.11,23.42,unknown,unknown
+REC0129,Mar 31 2024, Technology ,Enterprise,"3,250.66",323.89,Pending,unknown
+REC0403,05-06-2024,RETAIL,Online,"4,224.79",140.86,Pending,unknown
+REC0809,Jul 18 2024,Retail,Online,"3,884.81",928.89,Inactive,unknown
+REC0907,09-03-2024,Retail,Offline,"4,948.73",117.07,Pending,unknown
+REC0580,2024/10/23,Retail,Basic,"3,303.77",918.1,unknown,unknown
+REC0557,30-05-2024,Healthcare,Enterprise,"1,376.17",578.56,Pending,unknown
+REC0636,23-10-2024,technology,Enterprise,"1,284.93",100.01,Active,unknown
+REC0131,30-01-2024,retail,Online,"3,113.54",463.25,Active,unknown
+REC0383,Oct 28 2024, Retail ,Offline,"1,541.47",682.98,Inactive,unknown
+REC0525,Jun 02 2024,Retail,Premium,"1,772.67",616.38,unknown,unknown
+REC0595,2024/10/18,retail,Basic,"2,149.30",220.63,Inactive,unknown
+REC0249,2024/07/21, Retail ,Basic,"2,005.30",206.58,Active,unknown
+REC0863,Feb 02 2024,technology,Standard,708.04,965.72,Inactive,unknown
+REC0630,22-09-2024, Technology ,Offline,601.85,221.89,Active,unknown
+REC0144,2024/06/27,HEALTHCARE,Offline,"1,992.21",504.06505966587105,Pending,unknown
+REC0774,Nov 03 2024,healthcare,Basic,"1,710.23",504.06505966587105,Active,unknown
+REC0091,30-05-2024,RETAIL,Basic,"2,873.05",170.81,unknown,unknown
+REC0432,Feb 07 2024,retail,Premium,"4,392.95",575.32,Review,unknown
+REC0786,Apr 27 2024,technology,Basic,"2,310.64",368.14,Pending,unknown
+REC0028,05-05-2024, Technology ,Standard,"1,582.33",807.29,Pending,unknown
+REC0573,Jan 20 2024,RETAIL,Basic,"2,915.74",939.97,Review,unknown
+REC0029,2024/12/05,RETAIL,Online,"3,737.84",282.47,Pending,unknown
+REC0838,05-11-2024,healthcare,Offline,"4,710.86",379.06,unknown,unknown
+REC0431,26-06-2024, Retail ,Basic,"2,917.04",407.73,unknown,unknown
+REC0438,2024/09/08,technology,Offline,"3,775.83",504.06505966587105,Review,unknown
+REC0363,Apr 02 2024,healthcare,Standard,"4,411.76",891.87,Review,unknown
+REC0480,Jun 14 2024,technology,Enterprise,"4,638.12",961.69,Review,unknown
+REC0367,18-06-2024, Retail ,Basic,"2,076.06",459.64,Review,unknown
+REC0730,28-06-2024,RETAIL,Enterprise,"3,713.81",504.06505966587105,Inactive,unknown
+REC0932,Oct 10 2024,technology,Offline,"2,175.98",973.15,Inactive,unknown
+REC0321,Sep 07 2024,technology,Premium,"4,438.91",446.33,Review,unknown
+REC0711,Aug 17 2024,RETAIL,Offline,"2,399.28",508.13,Pending,unknown
+REC0453,Mar 10 2024, Technology ,Standard,"4,398.74",640.15,Pending,unknown
+REC0965,19-10-2024,HEALTHCARE,Standard,"2,027.26",504.06505966587105,Review,unknown
+REC0896,23-04-2024,Retail,Standard,353.11,504.06505966587105,Pending,unknown
+REC0099,May 31 2024,retail,Online,789.71,860.28,Review,unknown
+REC0448,2024/02/10,healthcare,Premium,"3,581.12",396.06,Pending,unknown
+REC0802,2024/07/31,HEALTHCARE,Standard,998.88,394.16,Inactive,unknown
+REC0385,2024/01/21,Retail,Standard,"3,116.48",491.06,Pending,unknown
+REC0188,2024/05/04,technology,Offline,357.21,717.64,unknown,unknown
+REC0559,Jan 08 2024,RETAIL,Standard,840.56,808.03,Inactive,unknown
+REC0473,2024/01/23,Retail,Basic,"1,038.92",504.06505966587105,Review,unknown
+REC0644,25-11-2024,HEALTHCARE,Enterprise,"1,466.56",108.93,Review,unknown
+REC0940,Apr 20 2024,RETAIL,Enterprise,"2,629.87",651.74,Pending,unknown
+REC0305,2024/06/30,healthcare,Standard,"1,858.04",703.75,Inactive,unknown
+REC0088,08-02-2024,Healthcare,Standard,"2,047.67",504.06505966587105,Review,unknown
+REC0850,2024/12/13, Retail ,Online,"2,737.64",145.56,Inactive,unknown
+REC0568,2024/12/28,RETAIL,Standard,"2,873.74",896.11,Pending,unknown
+REC0427,Feb 10 2024,HEALTHCARE,Basic,"3,108.43",711.89,Inactive,unknown
+REC0139,2024/11/12,RETAIL,Standard,"3,878.38",166.37,Review,unknown
+REC0257,May 17 2024,healthcare,Online,"3,824.02",219.32,Inactive,unknown
+REC0787,2024/07/14, Retail ,Online,"1,859.56",504.06505966587105,Active,unknown
+REC0700,Feb 25 2024,retail,Standard,"2,885.54",255.61,unknown,unknown
+REC0143,2024/05/25,Healthcare,Enterprise,822.01,946.47,Review,unknown
+REC0593,2024/07/30, Retail ,Enterprise,"2,473.60",145.8,Review,unknown
+REC0824,11-01-2024,retail,Premium,"3,016.40",726.92,Review,unknown
+REC0331,14-08-2024,HEALTHCARE,Online,"1,020.88",824.15,Pending,unknown
+REC0961,Sep 11 2024,technology,Basic,"2,566.47",668.04,Inactive,unknown
+REC0447,Jul 14 2024,RETAIL,Standard,"4,057.81",631.64,Active,unknown
+REC0578,07-09-2024,technology,Basic,"2,716.31",449.86,Active,unknown
+REC0178,2024/01/20, Technology ,Offline,"3,070.68",328.64,Inactive,unknown
+REC0319,Jul 20 2024, Technology ,Premium,118.70,504.06505966587105,Review,unknown
+REC0612,Mar 26 2024,technology,Offline,"4,212.73",666.69,Inactive,unknown
+REC0310,Mar 30 2024,healthcare,Enterprise,"4,090.83",734.26,Inactive,unknown
+REC0268,27-01-2024, Retail ,Online,"3,548.12",504.06505966587105,Inactive,unknown
+REC0101,22-11-2024, Retail ,Enterprise,"4,432.75",915.34,Active,unknown
+REC0409,28-08-2024,Retail,Premium,605.80,633.93,Pending,unknown
+REC0433,15-10-2024,healthcare,Basic,"3,439.81",862.16,Pending,unknown
+REC0396,Mar 10 2024,technology,Standard,805.97,914.25,Pending,unknown
+REC0695,02-03-2024,HEALTHCARE,Premium,"4,528.30",359.69,unknown,unknown
+REC0832,Feb 25 2024,healthcare,Premium,"3,768.78",398.57,Inactive,unknown
+REC0255,Oct 14 2024,HEALTHCARE,Basic,"3,579.70",168.09,Inactive,unknown
+REC0364,27-02-2024,retail,Premium,160.57,525.29,Inactive,unknown
+REC0485,22-10-2024,Retail,Premium,"1,804.86",417.11,Inactive,unknown
+REC0033,2024/07/05, Retail ,Standard,603.69,884.25,Inactive,unknown
+REC0298,2024/01/12, Technology ,Online,"4,534.88",332.22,unknown,unknown
+REC0083,31-07-2024, Retail ,Offline,"1,979.57",508.73,Active,unknown
+REC0600,09-01-2024,RETAIL,Enterprise,"3,761.70",504.06505966587105,Inactive,unknown
+REC0443,11-10-2024, Retail ,Standard,832.79,177.43,Pending,unknown
+REC0202,24-01-2024,retail,Online,"4,679.46",504.06505966587105,Active,unknown
+REC0751,Oct 26 2024,RETAIL,Enterprise,442.68,504.06505966587105,Inactive,unknown
+REC0147,26-02-2024,retail,Basic,"3,230.86",63.74,Review,unknown
+REC0278,Feb 12 2024,RETAIL,Premium,487.21,974.34,Pending,unknown
+REC0731,03-07-2024,HEALTHCARE,Online,552.02,130.93,Active,unknown
+REC0089,Jun 11 2024, Technology ,Online,"3,125.55",684.72,Inactive,unknown
+REC0159,2024/11/05,healthcare,Online,"2,912.22",398.64,Inactive,unknown
+REC0575,Jun 19 2024,Retail,Standard,544.27,960.96,unknown,unknown
+REC0788,2024/05/21,retail,Enterprise,"1,081.50",329.91,Pending,unknown
+REC0682,28-12-2024,Healthcare,Enterprise,387.89,235.61,Active,unknown
+REC0515,2024/04/13,Healthcare,,"2,538.38",807.65,Review,unknown
+REC0880,Aug 05 2024,RETAIL,Enterprise,"3,457.10",532.88,Active,unknown
+REC0291,24-12-2024,retail,Enterprise,754.22,75.76,Review,unknown
+REC0359,21-08-2024,Retail,Offline,"4,383.29",360.85,Review,unknown
+REC0142,2024/11/05,Retail,Premium,"2,817.25",504.06505966587105,Active,unknown
+REC0258,2024/06/01,healthcare,Online,"2,251.44",775.86,Pending,unknown
+REC0052,22-04-2024,Retail,Standard,"3,427.80",165.88,Inactive,unknown
+REC0001,2024/11/23,unkown,Offline,783.74,504.06505966587105,Active,unknown
+REC0946,2024/07/10,technology,Standard,309.11,58.0,Active,unknown
+REC0677,2024/01/11, Retail ,Basic,"1,071.50",169.59,Review,unknown
+REC0361,17-02-2024,RETAIL,Basic,"4,815.32",386.33,Review,unknown
+REC0441,01-05-2024,healthcare,Basic,"2,177.32",752.44,Review,unknown
+REC0006,21-02-2024,healthcare,Premium,"1,126.58",936.72,Inactive,unknown
+REC0314,25-01-2024,HEALTHCARE,Basic,"2,516.10",546.48,unknown,unknown
+REC0501,11-03-2024,technology,Basic,"4,978.86",146.01,Inactive,unknown
+REC0055,2024/05/09,technology,Premium,"1,198.69",504.06505966587105,Active,unknown
+REC0127,21-07-2024, Retail ,Offline,474.26,531.07,Pending,unknown
+REC0608,2024/02/25,RETAIL,Offline,"2,651.37",293.88,Inactive,unknown
+REC0846,May 11 2024,retail,Enterprise,"3,204.39",795.74,Inactive,unknown
+REC0290,2024/09/28,Retail,Offline,"3,587.10",504.06505966587105,Review,unknown
+REC0223,Dec 23 2024,RETAIL,Online,"2,669.49",620.16,Pending,unknown
+REC0042,04-06-2024,healthcare,Basic,"3,410.57",793.94,Inactive,unknown
+REC0465,Apr 30 2024,Retail,Premium,"2,965.01",243.85,Review,unknown
+REC0016,Apr 18 2024, Retail ,Basic,"4,976.23",438.66,Active,unknown
+REC0302,Jul 14 2024,technology,Premium,"4,572.12",388.99,Pending,unknown
+REC0819,2024/06/24,Retail,Standard,"4,943.04",696.58,Review,unknown
+REC0067,2024/02/21,healthcare,Online,"3,569.29",504.06505966587105,unknown,unknown
+REC0936,2024/10/09,Retail,Online,"4,885.65",564.18,Active,unknown
+REC0499,Jan 16 2024, Retail ,Basic,"3,318.97",504.06505966587105,Inactive,unknown
+REC0311,Jan 01 2024,HEALTHCARE,Enterprise,258.68,921.12,Inactive,unknown
+REC0167,22-09-2024,Healthcare,Enterprise,"1,444.81",614.81,unknown,unknown
+REC0681,Jul 08 2024, Technology ,Basic,752.70,693.33,Review,unknown
+REC0572,2024/05/12,retail,Premium,"3,908.46",504.06505966587105,Active,unknown
+REC0639,2024/07/27,healthcare,Online,"2,646.67",361.89,Active,unknown
+REC0297,2024/04/23,HEALTHCARE,Standard,"4,694.12",504.06505966587105,Active,unknown
+REC0536,Apr 15 2024,healthcare,Standard,"4,039.61",172.1,Pending,unknown
+REC0154,2024/05/19,HEALTHCARE,Standard,"2,254.71",339.7,Review,unknown
+REC0478,Feb 24 2024, Technology ,Basic,"4,425.84",181.22,Pending,unknown
+REC0151,Oct 24 2024,RETAIL,Enterprise,"1,758.88",830.55,Review,unknown
+REC0702,Jun 09 2024, Technology ,Premium,"1,772.54",810.2,Active,unknown
+REC0511,20-07-2024,Retail,Enterprise,"4,493.43",882.67,unknown,unknown
+REC0009,Jul 21 2024,Healthcare,Standard,"2,850.70",585.0,Review,unknown
+REC0113,2024/12/25,technology,Offline,"2,207.34",414.4,Review,unknown
+REC0296,26-07-2024,technology,Basic,599.35,122.33,unknown,unknown
+REC0939,14-07-2024,Retail,Offline,"3,443.63",504.06505966587105,Inactive,unknown
+REC0812,04-10-2024,retail,Online,"1,847.22",402.74,Review,unknown
+REC0581,Dec 25 2024,RETAIL,Premium,"4,121.62",504.06505966587105,Active,unknown
+REC0466,Dec 18 2024,retail,Basic,547.87,930.92,Active,unknown
+REC0815,2024/06/19,healthcare,Standard,"2,462.44",608.92,Review,unknown
+REC0444,06-09-2024,Retail,Standard,900.38,255.04,Active,unknown
+REC0126,11-01-2024, Technology ,Premium,531.84,244.07,Active,unknown
+REC0628,May 29 2024,retail,Standard,997.91,504.06505966587105,Pending,unknown
+REC0855,May 24 2024,technology,Offline,"1,684.75",865.99,unknown,unknown
+REC0352,2024/01/10,RETAIL,Online,"2,989.49",367.22,Active,unknown
+REC0533,Jul 17 2024,retail,,"4,668.45",594.69,unknown,unknown
+REC0594,01-04-2024, Technology ,Standard,"1,857.09",336.56,unknown,unknown
+REC0043,2024/12/03,healthcare,Offline,"3,396.70",199.93,unknown,unknown
+REC0196,2024/06/06,technology,Standard,"3,872.22",639.07,Pending,unknown
+REC0317,Oct 31 2024,Retail,Standard,908.49,157.95,unknown,unknown
+REC0283,29-01-2024,RETAIL,Premium,"3,889.31",674.45,unknown,unknown
+REC0428,23-11-2024, Retail ,Enterprise,"1,501.43",504.06505966587105,Inactive,unknown
+REC0604,2024/11/12,RETAIL,Standard,428.33,205.51,Inactive,unknown
+REC0401,11-06-2024,Healthcare,Offline,"2,871.20",317.02,Active,unknown
+REC0340,May 13 2024,Healthcare,Enterprise,"3,850.82",805.62,Review,unknown
+REC0910,18-12-2024,Healthcare,Standard,"3,061.27",442.74,Inactive,unknown
+REC0358,Oct 20 2024,retail,Online,"3,645.46",504.06505966587105,Inactive,unknown
+REC0343,16-09-2024,technology,Online,"2,406.83",725.46,Inactive,unknown
+REC0933,18-04-2024, Retail ,Standard,"4,882.34",78.13,Review,unknown
+REC0272,Jul 29 2024, Retail ,Online,786.06,504.06505966587105,Pending,unknown
+REC0180,07-07-2024,HEALTHCARE,Standard,"4,373.29",597.31,Inactive,unknown
+REC0540,Mar 14 2024,healthcare,Standard,"4,594.60",860.93,Review,unknown
+REC0898,2024/08/08, Technology ,Premium,646.49,683.28,Inactive,unknown
+REC0461,09-07-2024,Retail,Offline,374.59,72.31,Inactive,unknown
+REC0935,04-11-2024,unkown,Enterprise,621.68,11.97,Inactive,unknown
+REC0921,2024/06/27, Technology ,Premium,"4,072.53",77.29,unknown,unknown
+REC0558,2024/11/15,retail,Online,"4,272.08",133.41,Pending,unknown
+REC0696,Jul 07 2024, Technology ,Basic,"1,415.55",91.13,Pending,unknown
+REC0642,21-07-2024,retail,Basic,"2,063.06",102.62,Inactive,unknown
+REC0899,18-06-2024,healthcare,Enterprise,"2,691.42",650.6,Review,unknown
+REC0281,24-03-2024,technology,Standard,"1,370.31",750.03,Active,unknown
+REC0111,02-09-2024,retail,Basic,460.10,504.06505966587105,Active,unknown
+REC0655,21-06-2024,healthcare,Premium,"1,880.34",497.45,Active,unknown
+REC0387,2024/06/27,healthcare,Premium,"1,170.38",530.97,Active,unknown
+REC0978,Aug 04 2024,healthcare,Enterprise,"1,976.92",353.56,Active,unknown
+REC0943,2024/09/12,RETAIL,Offline,433.99,354.02,unknown,unknown
+REC0199,Feb 09 2024,technology,Offline,"2,906.24",504.06505966587105,Review,unknown
+REC0092,Jul 14 2024, Technology ,Offline,"1,237.72",460.11,Review,unknown
+REC0763,09-04-2024,Retail,Offline,"4,892.67",75.37,Inactive,unknown
+REC0212,Jan 30 2024,HEALTHCARE,Offline,"2,003.25",330.93,unknown,unknown
+REC0369,Feb 16 2024,Healthcare,Enterprise,"1,113.57",950.4,Active,unknown
+REC0442,23-05-2024,RETAIL,Standard,"1,219.98",504.06505966587105,Inactive,unknown
+REC0713,2024/08/29,Healthcare,Online,"3,368.58",504.06505966587105,Review,unknown
+REC0759,Mar 28 2024,RETAIL,Offline,"3,755.27",504.06505966587105,Inactive,unknown
+REC0592,Oct 30 2024, Retail ,Premium,"1,227.31",504.06505966587105,Inactive,unknown
+REC0251,Sep 27 2024,HEALTHCARE,Enterprise,659.74,458.4,Pending,unknown
+REC0032,Feb 08 2024,technology,,"1,909.16",430.36,unknown,unknown
+REC0510,2024/09/21, Technology ,Enterprise,654.54,937.9,Inactive,unknown
+REC0366,Jan 06 2024,technology,Basic,"4,360.14",504.06505966587105,Inactive,unknown
+REC0676,2024/05/13,healthcare,Offline,513.55,394.1,Inactive,unknown
+REC0226,2024/10/16,Retail,Standard,"4,449.02",47.52,unknown,unknown
+REC0877,2024/12/28,HEALTHCARE,Offline,"2,250.90",469.2,Review,unknown
+REC0421,2024/08/05, Retail ,Online,"1,488.01",409.24,Active,unknown
+REC0152,2024/11/19,retail,Basic,281.22,791.32,Pending,unknown
+REC0656,2024/10/01,Retail,Enterprise,"2,069.93",743.15,unknown,unknown
+REC0746,2024/01/27, Retail ,Enterprise,"1,986.74",504.06505966587105,unknown,unknown
+REC0532,2024/06/16,retail,Enterprise,"3,415.91",504.06505966587105,Review,unknown
+REC0703,05-11-2024,retail,Online,128.65,504.06505966587105,Review,unknown
+REC0277,2024/05/14,Retail,Basic,"2,582.39",501.55,Review,unknown
+REC0116,Jun 30 2024,HEALTHCARE,Standard,352.09,313.14,unknown,unknown
+REC0496,28-04-2024,retail,Basic,"4,347.19",187.23,Review,unknown
+REC0864,Nov 02 2024,technology,Premium,702.92,504.06505966587105,Inactive,unknown
+REC0924,Nov 04 2024, Retail ,Enterprise,"2,535.80",532.94,Review,unknown
+REC0886,24-07-2024,unkown,Offline,515.24,154.56,Review,unknown
+REC0878,Sep 23 2024, Retail ,Online,"4,742.53",313.42,unknown,unknown
+REC0680,May 24 2024,HEALTHCARE,Offline,240.99,236.25,Inactive,unknown
+REC0794,2024/10/27,Retail,Offline,"4,888.49",568.62,Review,unknown
+REC0531,Aug 15 2024,unkown,Enterprise,854.98,483.99,Pending,unknown
+REC0913,Jul 20 2024,retail,Basic,"1,301.74",970.42,unknown,unknown
+REC0342,Dec 28 2024,healthcare,Offline,"3,462.96",476.26,Pending,unknown
+REC0728,03-05-2024,technology,Online,"4,223.76",507.99,Active,unknown
+REC0309,2024/10/27,healthcare,Offline,"3,688.52",639.63,Pending,unknown
+REC0362,2024/11/28,Retail,Offline,608.19,483.19,Review,unknown
+REC0848,2024/04/29,Healthcare,Online,"1,767.17",188.97,Pending,unknown
+REC0470,Feb 05 2024,Healthcare,Enterprise,"1,898.85",504.06505966587105,Review,unknown
+REC0374,Sep 28 2024,HEALTHCARE,Basic,"4,629.42",910.27,Inactive,unknown
+REC0520,29-05-2024,Healthcare,Basic,"2,670.77",612.44,unknown,unknown
+REC0997,Aug 31 2024,healthcare,Enterprise,511.93,151.47,Pending,unknown
+REC0528,Apr 16 2024,healthcare,Offline,"1,474.25",504.06505966587105,Inactive,unknown
+REC0719,Mar 19 2024,RETAIL,Offline,"2,251.63",769.26,Review,unknown
+REC0927,30-05-2024,technology,Basic,"1,288.24",56.81,Inactive,unknown
+REC0688,2024/08/11, Technology ,Premium,"4,945.21",458.3,unknown,unknown
+REC0624,14-05-2024, Technology ,Standard,"4,474.16",492.39,Inactive,unknown
+REC0205,2024/01/02, Technology ,Enterprise,"2,178.23",230.43,Inactive,unknown
+REC0193,2024/04/05,Healthcare,Offline,959.93,897.15,Pending,unknown
+REC0301,2024/02/01,RETAIL,Standard,"4,434.80",631.12,Active,unknown
+REC0468,Aug 12 2024,HEALTHCARE,Offline,"1,328.41",504.06505966587105,Pending,unknown
+REC0596,Nov 22 2024,technology,Online,"2,117.31",862.34,Review,unknown
+REC0036,2024/04/26,unkown,Premium,"1,465.15",504.06505966587105,Pending,unknown
+REC0093,May 27 2024,retail,Premium,"4,939.49",962.07,Review,unknown
+REC0225,17-02-2024,technology,Standard,146.31,500.36,Pending,unknown
+REC0968,Jan 15 2024,retail,Online,"3,737.46",504.06505966587105,Pending,unknown
+REC0507,2024/08/22,Retail,Basic,"3,628.98",939.2,Active,unknown
+REC0003,22-04-2024,Retail,Offline,"3,520.88",156.32,Pending,unknown
+REC0971,2024/02/24,RETAIL,Basic,"4,238.66",208.76,unknown,unknown
+REC0722,2024/03/15,technology,Online,"1,757.69",772.6,Review,unknown
+REC0020,01-02-2024,retail,Offline,"2,727.80",504.06505966587105,Review,unknown
+REC0350,2024/03/07,Healthcare,Online,"1,561.19",728.1,Pending,unknown
+REC0158,2024/01/16, Technology ,,429.44,366.96,Active,unknown

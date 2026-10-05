@@ -1,0 +1,9 @@
+row_count,nullcounts,duplicates,unique_val
+1050,1050.0,50,
+1050,1050.0,50,
+1050,818.0,50,"{'retail', 'RETAIL', 'healthcare', 'Technology', 'HEALTHCARE', 'Healthcare', 'Retail', 'technology'}"
+1050,1050.0,50,
+1050,1050.0,50,
+1050,1050.0,50,
+1050,1050.0,50,"{'Active', 'Pending', 'Inactive', 'Review'}"
+1050,,50,set()
